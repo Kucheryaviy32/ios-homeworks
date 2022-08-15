@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  NetologyUI
 //
-//  Created by Игорь Скворцов on 03.03.2022.
+//  Created by Игорь Скворцов on 02.03.2022.
 //
 
 import UIKit
